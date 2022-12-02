@@ -1,7 +1,7 @@
 {
     "recommendations": [
         "serayuzgur.crates",
-        "matklad.rust-analyzer",
-        "vadimcn.vscode-lldb"
+        "vadimcn.vscode-lldb",
+        "rust-lang.rust-analyzer"
     ]
 }
