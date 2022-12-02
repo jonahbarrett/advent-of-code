@@ -1,0 +1,1 @@
+Answers for Advent of Code 2022 using Rust. Didn't use the whole template but took some stuff from https://github.com/fspoettel/advent-of-code-rust
